@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jackson/Dropbox (Personal)/sites/tempo/scss'
+let g:netrw_dirhist_2='/Users/jackson/Dropbox (Personal)/sites/basscss/scss'
+let g:netrw_dirhist_3='/Users/jackson/Dropbox (Personal)/sites/geomicons-open/partials'
+let g:netrw_dirhist_4='/Users/jackson/Dropbox (Personal)/sites/geomicons-open/icons'
